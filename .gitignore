@@ -1,0 +1,8 @@
+.env
+.vscode/
+.python-version
+__pycache__/
+.idea/
+.coverage
+htmlcov/
+.pytest_cache/
